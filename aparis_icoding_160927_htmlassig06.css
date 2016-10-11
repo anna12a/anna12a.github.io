@@ -1,0 +1,56 @@
+#g1 {
+	font-size: 96px;
+	color: red;
+	font-style: bold;
+}
+#o1 {
+	font-size: 64px;
+	color: orange;
+	font-style: italic;
+	font-family: cursive;
+}
+#o2 {
+	font-size: 72px;
+	color: yellow;
+	font-style: italic;
+	font-family: cursive;
+}
+#g2 {
+	font-size: 64px;
+	color: green;
+	font-family: Verdana;
+}
+#l {
+	font-size: 96px;
+	color: sky blue, blue;
+	font-family: comic serif;
+}
+#e {
+	font-size: 72px;
+	color: violet;
+	font-family: Helvetica;
+}
+div {
+	border-radius: 8px;
+	height: 30px;
+	width: 400px;
+	background-color: #fffddd;
+	border: 3px #1a5a82 solid;
+	margin: 10px;
+}
+a:link {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+	color: red;
+}
+a:visited {
+	text-decoration: none;
+	color: blue;
+}
+.search {
+	text-decoration: none;
+	color: black;
+}
